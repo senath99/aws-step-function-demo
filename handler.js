@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports.checkInventory = async (event) => {
-  return "Stocks Availables"
+  return "Stocks Available guys"
 };
 
 module.exports.calculateTotal = async (event) => {
-  return 100
+  return 1000
 };
